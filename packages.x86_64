@@ -37,8 +37,6 @@ gptfdisk
 grml-zsh-config
 hdparm
 intel-ucode
-ipw2100-fw
-ipw2200-fw
 irssi
 iwd
 jfsutils
@@ -109,32 +107,43 @@ bash-completion
 networkmanager
 
 #GNOME Applications
-cheese
 eog
-evince
-gedit
-gnome-desktop
+gnome-backgrounds
 gnome-clocks
 gnome-control-center
+gnome-desktop
 gnome-keyring
 gnome-screenshot
-gnome-shell-extensions
 gnome-session
 gnome-shell
-gnome-terminal
-gnome-backgrounds
+gnome-shell-extensions
 gnome-software
 gnome-software-packagekit-plugin
+gnome-terminal
+gnome-tweaks
 gvfs
 mutter
 nautilus
 xdg-user-dirs-gtk
-neofetch
-noto-fonts
-archlinux-appstream-data-pamac
 
-#Installer
+# Installer
 grub
 calamares
 alg-pure-cala-config
 os-prober
+
+# Developer
+neofetch
+base-devel
+code
+
+# Bluetooth
+bluez-utils
+pulseaudio-bluetooth
+bluez
+gnome-bluetooth
+
+# Fonts
+ttf-ms-fonts
+noto-fonts
+noto-fonts-cjk

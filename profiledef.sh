@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="archlinux-gui-gnome-pure"
-iso_label="ARCH_GUI_GNOME_$(date +%Y%m)"
-iso_publisher="DemonKiller"
-iso_application="Arch Linux GUI Live/Rescue CD"
+iso_name="arch-gnome"
+iso_label="ARCH_GNOME_$(date +%Y%m)"
+iso_publisher="rncoll7"
+iso_application="Arch Gnome Live/Rescue CD"
 iso_version="$(date +%Y.%m)"
 install_dir="arch"
 bootmodes=('bios.syslinux.mbr' 'bios.syslinux.eltorito' 'uefi-x64.systemd-boot.esp' 'uefi-x64.systemd-boot.eltorito')

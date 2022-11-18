@@ -1,2 +1,2 @@
-# alg-gnome-pure
-ALG edition with stock GNOME 40.
+# 
+pacman -S git base-devel archiso
