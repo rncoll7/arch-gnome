@@ -150,3 +150,11 @@ nautilus-bluetooth
 ttf-ms-fonts
 noto-fonts
 noto-fonts-cjk
+
+# AMD
+mesa
+lib32-mesa
+vulkan-radeon
+libva-mesa-driver
+mesa-vdpau
+xf86-video-amdgpu
