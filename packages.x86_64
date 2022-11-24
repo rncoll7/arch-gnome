@@ -102,6 +102,7 @@ zsh
 
 #Arch Linux GUI GNOME core
 xorg
+wayland
 gdm
 bash-completion
 networkmanager
